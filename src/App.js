@@ -13,9 +13,9 @@ function App() {
       <Header />
       <Card />
       <Collection />
-      <Cities />
+      {/* <Cities /> */}
       <CTA />
-      <AccContainer />
+      {/* <AccContainer /> */}
       <Footer />
     </div>
   );
